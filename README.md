@@ -1,7 +1,7 @@
 # crop-prediction
 Problem Statement: Crop Prediction
 
-Group Members : Auraag Punjabi , Abhiskek Odrani , and Mohit Peshwani
+Group Members : Anuraag Punjabi , Abhiskek Odrani , and Mohit Peshwani
 
 Python Libraries Used: numpy, pandas, sklearn , seaborn , matplotlib
 
